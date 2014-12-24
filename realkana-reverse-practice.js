@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Realkana reverse practice
 // @namespace    https://github.com/yeriomin
+// @homepageURL  https://github.com/yeriomin/realkana-reverse-practice
 // @downloadURL  https://raw.githubusercontent.com/yeriomin/realkana-reverse-practice/master/realkana-reverse-practice.js
 // @updateURL    https://raw.githubusercontent.com/yeriomin/realkana-reverse-practice/master/realkana-reverse-practice.js
 // @version      1.0
 // @description  Adds an option to practice not by guessing syllables of random kana characters, but by guessing kana characters of random syllables
 // @author       yeriomin
+// @copyright    2014, yeriomin (https://github.com/yeriomin)
 // @match        http://www.realkana.com/*
 // @match        https://www.realkana.com/*
 // @grant        GM_addStyle
